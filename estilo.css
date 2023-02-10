@@ -1,0 +1,47 @@
+body {
+  background-color: #ccc;
+}
+header {
+  width: 300px;
+  padding-left: 50px;
+  text-align: center;
+}
+
+.desencriptado {
+  float: left;
+  text-align: center;
+}
+
+.input {
+  background-color: #ccc;
+  margin: 15px;
+  float: left;
+  padding-left: 65px;
+  margin-top: 65px;
+}
+
+.encriptado {
+  background: #ffffff;
+  float: right;
+  width: 300px;
+  margin-right: 50px;
+  height: 600px;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.encriptado img {
+  height: 200px;
+  margin-top: 100px;
+}
+
+.output-encriptado {
+  width: 300px;
+  height: 150px;
+  text-align: center;
+}
+
+#copiar {
+  margin-top: 5px;
+}
+
